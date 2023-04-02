@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793551673991",
+    "project_id": "kotlin-gate-pass",
+    "storage_bucket": "kotlin-gate-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793551673991:android:15ddb62cd054af47d4b622",
+        "android_client_info": {
+          "package_name": "com.example.gatepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793551673991-edrdhkiqnivilueu7qu98rdppcagsqcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevUz2QlifEob3OCFbEtPLockRnN_AF1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793551673991-edrdhkiqnivilueu7qu98rdppcagsqcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
